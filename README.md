@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomasDaniKurniawan
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Machine Learning
 
 
